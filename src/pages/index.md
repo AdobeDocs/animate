@@ -7,7 +7,7 @@ description: This is the home page of Animate APIs
 
 ![Creative Cloud banner](images/cc-hero.png)
 
-![Animate Logo](images/animate-cc.mnemonic.240x234.png)
+![Animate Logo](images/an_appicon_256.svg)
 
 # Customize and automate Animate
 
@@ -15,9 +15,9 @@ Adobe Animate offers a JavaScript API (JSAPI) to script actions in the Animate U
 
 * [Get the SDK](https://console.adobe.io/downloads/an)
 
-<TextBlock slots="image, heading, text, buttons" width="50%" theme="dark" isCentered />
+<TextBlock slots="image, heading, text, buttons" width="50%" theme="light" isCentered />
 
-![Animate Feature 2](images/animate-feature2.jpg)
+![Image of a walk cycle](images/animate-feature1-resized_17383483.png)
 
 ### Automate animation processes
 
@@ -25,9 +25,9 @@ The JavaScript API exposes Animate to your control. Build tools that corral anim
 
 - [Extending Animate (PDF)](http://help.adobe.com/en_US/flash/cs/extend/flash_extending_reference.pdf)
 
-<TextBlock slots="image, heading, text, buttons" width="50%" theme="dark" isCentered />
+<TextBlock slots="image, heading, text, buttons" width="50%" theme="light" isCentered />
 
-![Animate Feature 3](images/animate-feature3-resized_29228122.png)
+![image of a sprite sheet](images/animate-feature3-resized_29228122.png)
 
 ### Create powerful animation tools
 
@@ -36,7 +36,7 @@ Create custom animation tools, animation data management, implement complex moti
 - [Extending Animate (PDF)](http://help.adobe.com/en_US/flash/cs/extend/flash_extending_reference.pdf)
 
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="dark" isCentered />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
 ![Code Icon](images/S_IlluFootageImport_96.svg)
 
@@ -46,7 +46,7 @@ Build automations that export Animate projects to HTML5 Canvas, WebGL, SVG, Flas
 
 * [Learn More](https://console.adobe.io/downloads/an)
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="dark" isCentered />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
 ![Code Icon](images/S_IlluScriptingAndActions_96.svg)
 
@@ -56,7 +56,7 @@ Write scripts in JavaScript to automate Animate functions or add capabilities. C
 
 * [Get the SDK](https://console.adobe.io/downloads/an)
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="dark" isCentered />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
 ![Code Icon](images/S_IlluToolSet_96.svg)
 
