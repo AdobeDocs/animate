@@ -38,7 +38,7 @@ Create custom animation tools, animation data management, implement complex moti
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
-![Code Icon](images/S_IlluFootageImport_96.svg)
+![Footage Import Icon](images/S_IlluFootageImport_96.svg)
 
 ### Work with multiple output formats
 
@@ -48,7 +48,7 @@ Build automations that export Animate projects to HTML5 Canvas, WebGL, SVG, Flas
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
-![Code Icon](images/S_IlluScriptingAndActions_96.svg)
+![Scripting Icon](images/S_IlluScriptingAndActions_96.svg)
 
 ### Use JavaScript, C++, or both
 
@@ -58,7 +58,7 @@ Write scripts in JavaScript to automate Animate functions or add capabilities. C
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
-![Code Icon](images/S_IlluToolSet_96.svg)
+![Toolset Icon](images/S_IlluToolSet_96.svg)
 
 ### Export to Unity
 
