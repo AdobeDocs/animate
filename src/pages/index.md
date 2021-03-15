@@ -66,7 +66,7 @@ Import animations orchestrated in Animate to Unity using the new Texture Atlas e
 
 * [Get the plugin](https://console.adobe.io/downloads/an)
 
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
 ![CC banner](images/cc-banner.png)
 
