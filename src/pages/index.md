@@ -5,9 +5,9 @@ description: This is the home page of Animate APIs
 
 <Hero slots="image, icon, heading, text, buttons" variant="halfwidth" />
 
-![Creative Cloud banner](images/cc-hero.png)
+![Creative Cloud banner](https://adobe.io/shared/images/cc-hero.png)
 
-![Animate Logo](images/an_appicon_256.svg)
+![Animate Logo](https://adobe.io/shared/icons/an_appicon_64.svg)
 
 # Customize and automate Animate
 
@@ -68,7 +68,7 @@ Import animations orchestrated in Animate to Unity using the new Texture Atlas e
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
-![CC banner](images/cc-banner.png)
+![CC banner](https://adobe.io/shared/images/cc-banner.png)
 
 ## Get the latest news for Creative Cloud Developers
 
