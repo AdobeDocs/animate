@@ -1,4 +1,13 @@
 ---
+keywords:
+  - Creative Cloud
+  - API Documentation
+  - ExtendScript
+  - SDKDocumentation
+  - C++
+  - Scripting
+  - JavaScript
+  - ActionScript
 title: Creative Cloud - Animate
 description: This is the home page of Animate APIs
 ---
