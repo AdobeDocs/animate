@@ -22,7 +22,7 @@ description: This is the home page of Animate APIs
 
 Adobe Animate offers a JavaScript API (JSAPI) to script actions in the Animate UI, and the Custom Platform Support Development Kit (CPSDK) to extend the power of Animate to new platforms. Provide custom tools to supercharge your creative process, automate workflows, and more. Build scripts and plug-ins and package them for distribution as extensions. Discover the potential for enhancing and extending the capabilities of Adobe Animate.
 
-* [Get the SDK](https://console.adobe.io/downloads/an)
+* [Get the SDK](https://developer.adobe.com/console/servicesandapis/an)
 
 <TextBlock slots="image, heading, text, buttons" width="50%" theme="light" isCentered />
 
@@ -53,7 +53,7 @@ Create custom animation tools, animation data management, implement complex moti
 
 Build automations that export Animate projects to HTML5 Canvas, WebGL, SVG, Flash, and more.
 
-* [Learn More](https://console.adobe.io/downloads/an)
+* [Learn More](https://developer.adobe.com/console/servicesandapis/an)
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
@@ -63,7 +63,7 @@ Build automations that export Animate projects to HTML5 Canvas, WebGL, SVG, Flas
 
 Write scripts in JavaScript to automate Animate functions or add capabilities. Create C++ libraries that you can call from your JavaScript scripts.
 
-* [Get the SDK](https://console.adobe.io/downloads/an)
+* [Get the SDK](https://developer.adobe.com/console/servicesandapis/an)
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
@@ -73,7 +73,7 @@ Write scripts in JavaScript to automate Animate functions or add capabilities. C
 
 Import animations orchestrated in Animate to Unity using the new Texture Atlas export.
 
-* [Get the plugin](https://console.adobe.io/downloads/an)
+* [Get the plugin](https://developer.adobe.com/console/servicesandapis/an)
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
