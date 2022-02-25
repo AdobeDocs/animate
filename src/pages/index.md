@@ -32,7 +32,7 @@ Adobe Animate offers a JavaScript API (JSAPI) to script actions in the Animate U
 
 The JavaScript API exposes Animate to your control. Build tools that corral animation assets, control output settings, and automate export to multiple formats.
 
-- [Extending Animate (PDF)](http://help.adobe.com/en_US/flash/cs/extend/flash_extending_reference.pdf)
+- [Extending Animate](https://helpx.adobe.com/animate/using/custom-platform-support-api-reference.html)
 
 <TextBlock slots="image, heading, text, buttons" width="50%" theme="light" isCentered />
 
@@ -42,7 +42,7 @@ The JavaScript API exposes Animate to your control. Build tools that corral anim
 
 Create custom animation tools, animation data management, implement complex motion controls, organize animation assets, and more.
 
-- [Extending Animate (PDF)](http://help.adobe.com/en_US/flash/cs/extend/flash_extending_reference.pdf)
+- [Extending Animate](https://helpx.adobe.com/animate/using/custom-platform-support-api-reference.html)
 
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
