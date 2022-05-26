@@ -14,7 +14,7 @@ module.exports = {
   siteMetadata: {
     pages: [
       {
-        title: 'Adobe Creative Cloud',
+        title: 'Adobe Animate',
         path: '/'
       }
     ]
