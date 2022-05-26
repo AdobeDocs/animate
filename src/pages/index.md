@@ -12,7 +12,7 @@ title: Creative Cloud - Animate
 description: This is the home page of Animate APIs
 ---
 
-<Hero slots="image, icon, heading, text, buttons" variant="halfwidth" />
+<Hero slots="image, icon, heading, text" variant="halfwidth" />
 
 ![Creative Cloud banner](https://adobe.io/shared/images/cc-hero.png)
 
@@ -33,16 +33,13 @@ Custom Platform Support can be added to Animate by implementing a plugin using 
 
 - [Get the SDK](https://developer.adobe.com/console/servicesandapis/an)
 
-- [Extending Animate](https://helpx.adobe.com/animate/using/custom-platform-support-api-reference.html)
-
 <TextBlock slots="image, heading, text, buttons" width="50%" theme="light" isCentered />
 
-![Image of a walk cycle](images/animate-feature1-resized_17383483.png)
+![Image of a walk cycle](images/animate-feature3-resized_29228122.png)
 
 ### Extending Animate using JSAPI
 
 The JavaScript API exposes Animate to your control. Build tools that corral animation assets, control output settings, and automate export to multiple formats. You can also create custom animation tools, animation data management, implement complex motion controls and more.
-
 
 - [JSAPI Documentation](https://github.com/AdobeDocs/developers-animatesdk-docs)
 
