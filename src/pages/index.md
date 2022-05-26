@@ -12,7 +12,7 @@ title: Creative Cloud - Animate
 description: This is the home page of Animate APIs
 ---
 
-<Hero slots="image, icon, heading, text, buttons" variant="halfwidth" />
+<Hero slots="image, icon, heading, text" variant="halfwidth" />
 
 ![Creative Cloud banner](https://adobe.io/shared/images/cc-hero.png)
 
@@ -23,7 +23,7 @@ description: This is the home page of Animate APIs
 Adobe Animate offers a JavaScript API (JSAPI) to script actions in the Animate UI, and the Custom Platform Support Development Kit (CPSDK) to extend the power of Animate to new platforms. Provide custom tools to supercharge your creative process, automate workflows, and more. Build scripts and plug-ins and package them for distribution as extensions. Discover the potential for enhancing and extending the capabilities of Adobe Animate.
 
 
-<TextBlock slots="image, heading, text" width="50%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, buttons" width="50%" theme="light" isCentered />
 
 ![Image of a walk cycle](images/animate-feature1-resized_17383483.png)
 
@@ -33,20 +33,17 @@ Custom Platform Support can be added to Animate by implementing a plugin using 
 
 - [Get the SDK](https://developer.adobe.com/console/servicesandapis/an)
 
-- [Extending Animate](https://helpx.adobe.com/animate/using/custom-platform-support-api-reference.html)
-
 <TextBlock slots="image, heading, text, buttons" width="50%" theme="light" isCentered />
 
-![Image of a walk cycle](images/animate-feature1-resized_17383483.png)
+![Image of a walk cycle](images/animate-feature3-resized_29228122.png)
 
 ### Extending Animate using JSAPI
 
 The JavaScript API exposes Animate to your control. Build tools that corral animation assets, control output settings, and automate export to multiple formats. You can also create custom animation tools, animation data management, implement complex motion controls and more.
 
-
 - [JSAPI Documentation](https://github.com/AdobeDocs/developers-animatesdk-docs)
 
-<TextBlock slots="image, heading, text, links" width="50%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
 ![Footage Import Icon](images/S_IlluFootageImport_96.svg)
 
@@ -63,6 +60,8 @@ Build automations that export Animate projects to HTML5 Canvas, WebGL, SVG, Flas
 ### Use JavaScript, C++, or both
 
 Write scripts in JavaScript to automate Animate functions or add capabilities. Create C++ libraries that you can call from your JavaScript scripts.
+
+* [Get the SDK](https://developer.adobe.com/console/servicesandapis/an)
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
