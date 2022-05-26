@@ -22,7 +22,6 @@ description: This is the home page of Animate APIs
 
 Adobe Animate offers a JavaScript API (JSAPI) to script actions in the Animate UI, and the Custom Platform Support Development Kit (CPSDK) to extend the power of Animate to new platforms. Provide custom tools to supercharge your creative process, automate workflows, and more. Build scripts and plug-ins and package them for distribution as extensions. Discover the potential for enhancing and extending the capabilities of Adobe Animate.
 
-* [Get the SDK](https://developer.adobe.com/console/servicesandapis/an)
 
 <TextBlock slots="image, heading, text" width="50%" theme="light" isCentered />
 
@@ -32,6 +31,10 @@ Adobe Animate offers a JavaScript API (JSAPI) to script actions in the Animate U
 
 Custom Platform Support can be added to Animate by implementing a plugin using a set of Application Programming Interfaces (APIs) that are provided as part of the Custom Platform Support Development Kit. The Custom Platform Support Development Kit includes a set of header files, sample plugins, and project files that can be used to build a plugin for Animate.
 
+* [Get the SDK](https://developer.adobe.com/console/servicesandapis/an)
+
+- [Extending Animate](https://helpx.adobe.com/animate/using/custom-platform-support-api-reference.html)
+
 <TextBlock slots="image, heading, text, buttons" width="50%" theme="light" isCentered />
 
 ![Image of a walk cycle](images/animate-feature1-resized_17383483.png)
@@ -39,7 +42,7 @@ Custom Platform Support can be added to Animate by implementing a plugin using 
 ### Extending Animate using JSAPI
 
 The JavaScript API exposes Animate to your control. Build tools that corral animation assets, control output settings, and automate export to multiple formats. You can also create custom animation tools, animation data management, implement complex motion controls and more.
-- [Extending Animate](https://helpx.adobe.com/animate/using/custom-platform-support-api-reference.html)
+
 
 - [JSAPI Documentation](https://github.com/AdobeDocs/developers-animatesdk-docs)
 
