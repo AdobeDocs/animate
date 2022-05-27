@@ -75,7 +75,7 @@ Import animations orchestrated in Animate to Unity using the new Texture Atlas e
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
-![CC banner](https://adobe.io/shared/images/cc-banner.png)
+![CC banner](https://developer.adobe.com/shared/images/cc-banner.png)
 
 ## Get the latest news for Creative Cloud Developers
 
