@@ -14,9 +14,9 @@ description: This is the home page of Animate APIs
 
 <Hero slots="image, icon, heading, text" variant="halfwidth" />
 
-![Creative Cloud banner](https://adobe.io/shared/images/cc-hero.png)
+![Creative Cloud banner](https://developer.adobe.com/shared/images/cc-hero.png)
 
-![Animate Logo](https://adobe.io/shared/icons/an_appicon_64.svg)
+![Animate Logo](https://developer.adobe.com/shared/icons/an_appicon_64.svg)
 
 # Customize and automate Animate
 
