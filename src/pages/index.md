@@ -39,9 +39,9 @@ Custom Platform Support can be added to Animate by implementing a plugin using 
 
 ### Extending Animate using JSAPI
 
-The [JavaScript API](https://github.com/AdobeDocs/developers-animatesdk-docs) exposes Animate to your control. Build tools that corral animation assets, control output settings, and automate export to multiple formats. You can also create custom animation tools, animation data management, implement complex motion controls and more.
+The JavaScript API exposes Animate to your control. Build tools that corral animation assets, control output settings, and automate export to multiple formats. You can also create custom animation tools, animation data management, implement complex motion controls and more.
 
-- [JSAPI Documentation](https://help.adobe.com/archive/en_US/flash/cs5/flash_cs5_extending.pdf)
+- [JSAPI Documentation](https://github.com/AdobeDocs/developers-animatesdk-docs/blob/master/JSAPI.md)
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
