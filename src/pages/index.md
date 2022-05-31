@@ -27,7 +27,7 @@ Adobe Animate offers a JavaScript API (JSAPI) to script actions in the Animate U
 
 ![Image of a walk cycle](images/animate-feature1-resized_17383483.png)
 
-### Automate animation processes and create powerful animation tools
+### Extend Animate to new platforms
 
 Custom Platform Support can be added to Animate by implementing a plugin using a set of Application Programming Interfaces (APIs) that are provided as part of the Custom Platform Support Development Kit. The Custom Platform Support Development Kit includes a set of header files, sample plugins, and project files that can be used to build a plugin for Animate.
 
@@ -37,7 +37,7 @@ Custom Platform Support can be added to Animate by implementing a plugin using 
 
 ![Image of a walk cycle](images/animate-feature3-resized_29228122.png)
 
-### Extending Animate using JSAPI
+### Automate animation processes and create powerful animation tools
 
 The JavaScript API exposes Animate to your control. Build tools that corral animation assets, control output settings, and automate export to multiple formats. You can also create custom animation tools, animation data management, implement complex motion controls and more.
 
