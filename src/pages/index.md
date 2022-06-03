@@ -41,7 +41,7 @@ Custom Platform Support can be added to Animate by implementing a plugin using 
 
 The JavaScript API exposes Animate to your control. Build tools that corral animation assets, control output settings, and automate export to multiple formats. You can also create custom animation tools, animation data management, implement complex motion controls and more.
 
-- [JSAPI Documentation](https://github.com/AdobeDocs/developers-animatesdk-docs/blob/master/index.md)
+- [View the JSAPI docs](https://github.com/AdobeDocs/developers-animatesdk-docs/blob/master/index.md)
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
